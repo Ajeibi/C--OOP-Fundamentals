@@ -1,0 +1,14 @@
+C:\Users\oche\Desktop\OOP\bin\Debug\net7.0\OOP.exe
+C:\Users\oche\Desktop\OOP\bin\Debug\net7.0\OOP.deps.json
+C:\Users\oche\Desktop\OOP\bin\Debug\net7.0\OOP.runtimeconfig.json
+C:\Users\oche\Desktop\OOP\bin\Debug\net7.0\OOP.dll
+C:\Users\oche\Desktop\OOP\bin\Debug\net7.0\OOP.pdb
+C:\Users\oche\Desktop\OOP\obj\Debug\net7.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oche\Desktop\OOP\obj\Debug\net7.0\OOP.AssemblyInfoInputs.cache
+C:\Users\oche\Desktop\OOP\obj\Debug\net7.0\OOP.AssemblyInfo.cs
+C:\Users\oche\Desktop\OOP\obj\Debug\net7.0\OOP.csproj.CoreCompileInputs.cache
+C:\Users\oche\Desktop\OOP\obj\Debug\net7.0\OOP.dll
+C:\Users\oche\Desktop\OOP\obj\Debug\net7.0\refint\OOP.dll
+C:\Users\oche\Desktop\OOP\obj\Debug\net7.0\OOP.pdb
+C:\Users\oche\Desktop\OOP\obj\Debug\net7.0\OOP.genruntimeconfig.cache
+C:\Users\oche\Desktop\OOP\obj\Debug\net7.0\ref\OOP.dll
