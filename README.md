@@ -22,9 +22,6 @@ This repository includes:
 
 - **Code Examples**: A collection of C# code files demonstrating each of the four pillars of OOP with practical, real-world scenarios.
   
-- **Documentation**: Detailed explanations and documentation for each concept, including best practices and usage guidelines.
-
-- **Exercises**: Hands-on exercises and challenges to help you practice and solidify your understanding of OOP in C#.
 
 ## Getting Started
 
